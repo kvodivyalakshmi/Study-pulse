@@ -1,0 +1,6 @@
+{
+  "name": "StudyPulse - AI Study Companion & Academic Tracker",
+  "description": "An intuitive gamified study companion and academic tracker for students with syllabus tracking, personalized schedule recommendations, action planner, and tailored AI mentorship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
